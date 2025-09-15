@@ -57,6 +57,7 @@ AI와 최신 도구를 자유롭게 쓰면서, 스타트업이 당면한 문제�
 | 번호 | 제목 | 강의 자료 |
 |:------:|------|-----------------------------|
 | 1 | 오리엔테이션 | [구글 슬라이드](https://docs.google.com/presentation/d/1cO6K_OMwxo1oAPHtpVnnrm0GFcPA_etMF4KrdOhvstM/edit?slide=id.g3329ef13f6d_0_167#slide=id.g3329ef13f6d_0_167) |
+| 2 | LLM 활용 초급 | [구글 슬라이드](https://docs.google.com/presentation/d/1RgBmRH4eSiEwb7ZLgPlS7FxnMurcE_6xAuFSvAfVT48/edit?slide=id.g2fb71b78b78_0_519#slide=id.g2fb71b78b78_0_519) |
 
 ---
 
