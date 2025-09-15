@@ -50,6 +50,13 @@ AI와 최신 도구를 자유롭게 쓰면서, 스타트업이 당면한 문제�
 
 [강의 일정표(구글 시트)](https://docs.google.com/spreadsheets/d/19YHPMgkA4DnbmNAFzGvgzQx36E-CO1cFWnPbamupTAc/edit?gid=0#gid=0&range=A1:D16)
 
+---
+
+## 강의 자료
+
+| 번호 | 제목 | 강의 자료 |
+|:------:|------|-----------------------------|
+| 1 | 오리엔테이션 | [구글 슬라이드](https://docs.google.com/presentation/d/1cO6K_OMwxo1oAPHtpVnnrm0GFcPA_etMF4KrdOhvstM/edit?slide=id.g3329ef13f6d_0_167#slide=id.g3329ef13f6d_0_167) |
 
 ---
 
