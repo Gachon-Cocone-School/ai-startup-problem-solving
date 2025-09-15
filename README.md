@@ -1,3 +1,5 @@
+<img width="1200" height="350" alt="Image" src="https://github.com/user-attachments/assets/a07b2bab-30b0-4090-9062-91d29a1e3ff7" />
+
 # AI와 스타트업 문제해결
 
 ---
