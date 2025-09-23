@@ -58,6 +58,7 @@ AI와 최신 도구를 자유롭게 쓰면서, 스타트업이 당면한 문제�
 |:------:|------|-----------------------------|
 | 0 | 오리엔테이션 | [구글 슬라이드](https://docs.google.com/presentation/d/1cO6K_OMwxo1oAPHtpVnnrm0GFcPA_etMF4KrdOhvstM/edit?slide=id.g3329ef13f6d_0_167#slide=id.g3329ef13f6d_0_167) |
 | 1 | Agile 방법론 | [구글 슬라이드](https://docs.google.com/presentation/d/1ckLlw2vu7tGyAmcvx4cLhUUy8LQvadF-mX0LJMTyEwE/edit?slide=id.g34115aab883_0_107#slide=id.g34115aab883_0_107) |
+| 2 | API 기초 | [구글 슬라이드](https://docs.google.com/presentation/d/1JlnaeeywSlCis1Gpyv9WoTNTx0reGxHSBhcSDbifmo4/edit?slide=id.g33b52cd8eb5_0_0#slide=id.g33b52cd8eb5_0_0) |
 
 ---
 
