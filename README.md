@@ -60,6 +60,7 @@ AI와 최신 도구를 자유롭게 쓰면서, 스타트업이 당면한 문제�
 | 1 | Agile 방법론 | [구글 슬라이드](https://docs.google.com/presentation/d/1ckLlw2vu7tGyAmcvx4cLhUUy8LQvadF-mX0LJMTyEwE/edit?slide=id.g34115aab883_0_107#slide=id.g34115aab883_0_107) |
 | 2 | API 기초 | [구글 슬라이드](https://docs.google.com/presentation/d/1JlnaeeywSlCis1Gpyv9WoTNTx0reGxHSBhcSDbifmo4/edit?slide=id.g33b52cd8eb5_0_0#slide=id.g33b52cd8eb5_0_0) |
 | 3 | Database 기초 | [구글 슬라이드](https://docs.google.com/presentation/d/107Fq4dY25-Ez6BqkXTHer5j8bduES-paY4VWKZSxHeQ/edit?slide=id.g33b52cd8eb5_0_0#slide=id.g33b52cd8eb5_0_0) |
+| 4 | 바이브코딩 | [구글 슬라이드](https://docs.google.com/presentation/d/19SWFRQyzowRw7xmbrdV9MWZofScigfhqnmRxVEeuDck/edit?slide=id.g33b52cd8eb5_0_0#slide=id.g33b52cd8eb5_0_0) |
 
 ---
 
