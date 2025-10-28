@@ -62,6 +62,7 @@ AI와 최신 도구를 자유롭게 쓰면서, 스타트업이 당면한 문제�
 | 3 | Database 기초 | [구글 슬라이드](https://docs.google.com/presentation/d/107Fq4dY25-Ez6BqkXTHer5j8bduES-paY4VWKZSxHeQ/edit?slide=id.g33b52cd8eb5_0_0#slide=id.g33b52cd8eb5_0_0) |
 | 4 | 바이브코딩 | [구글 슬라이드](https://docs.google.com/presentation/d/19SWFRQyzowRw7xmbrdV9MWZofScigfhqnmRxVEeuDck/edit?slide=id.g33b52cd8eb5_0_0#slide=id.g33b52cd8eb5_0_0) |
 | 5 | LLM 활용 초급 | [구글 슬라이드](https://docs.google.com/presentation/d/1RgBmRH4eSiEwb7ZLgPlS7FxnMurcE_6xAuFSvAfVT48/edit?slide=id.g39b24aacbd5_0_127#slide=id.g39b24aacbd5_0_127) |
+| 6 | 팀프로젝트 중간발표 | [구글 슬라이드](https://docs.google.com/presentation/d/12U7GA91MYw3SPOTzm_xVV6qIwkECvktOzOBsPl6t0eU/edit?slide=id.g34ba2e15ec2_0_0#slide=id.g34ba2e15ec2_0_0) |
 
 
 ---
