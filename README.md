@@ -56,7 +56,7 @@
 | 번호 | 제목 | 강의 자료 |
 |:------:|------|-----------------------------|
 | 1 | 오리엔테이션 | [구글 슬라이드](https://docs.google.com/presentation/d/1e_wZ5L3brwonTWDlyWU544BbE8gC46_DXd_z7P9H2u8/edit?slide=id.g33c2ddec84f_0_0#slide=id.g33c2ddec84f_0_0) |
-| 2 | Agile 방법론 | |
+| 2 | Agile 방법론 |[구글 슬라이드](https://docs.google.com/presentation/d/1hJFu9PzAJwFc8DImhEV_Oh8CstIAbnuTv5vBryoPBW4/edit?slide=id.g3c576e76964_0_16#slide=id.g3c576e76964_0_16)  |
 | 3 | API 기초 |  |
 | 4 | Database 기초 |  |
 | 5 | LLM 기초 |  |
