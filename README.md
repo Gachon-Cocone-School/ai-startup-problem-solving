@@ -58,7 +58,7 @@
 | 1 | 오리엔테이션 | [구글 슬라이드](https://docs.google.com/presentation/d/1e_wZ5L3brwonTWDlyWU544BbE8gC46_DXd_z7P9H2u8/edit?slide=id.g33c2ddec84f_0_0#slide=id.g33c2ddec84f_0_0) |
 | 2 | Agile 방법론 |[구글 슬라이드](https://docs.google.com/presentation/d/1hJFu9PzAJwFc8DImhEV_Oh8CstIAbnuTv5vBryoPBW4/edit?slide=id.g3c576e76964_0_16#slide=id.g3c576e76964_0_16)  |
 | 3 | API 기초 | [구글 슬라이드](https://docs.google.com/presentation/d/1BLgvgr9ovJ9YoLt5nI7rp91X1-_cE6fio9Hw8GnvVJM/edit?slide=id.g33b52cd8eb5_0_0#slide=id.g33b52cd8eb5_0_0)  |
-| 4 | Database 기초 |  |
+| 4 | Database 기초 | [구글 슬라이드](https://docs.google.com/presentation/d/1yzs34AjS9wC35CD-di4dz4PbJrI0P0D92JxXWJJYXK8/edit?slide=id.g33b52cd8eb5_0_0#slide=id.g33b52cd8eb5_0_0) |
 | 5 | LLM 기초 |  |
 | 6 | 바이브코딩 초급 |  |
 | 7 | 바이브코딩 중급 |  |
