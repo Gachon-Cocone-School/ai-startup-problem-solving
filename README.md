@@ -60,8 +60,8 @@
 | 3 | API 기초 | [구글 슬라이드](https://docs.google.com/presentation/d/1BLgvgr9ovJ9YoLt5nI7rp91X1-_cE6fio9Hw8GnvVJM/edit?slide=id.g33b52cd8eb5_0_0#slide=id.g33b52cd8eb5_0_0)  |
 | 4 | Database 기초 | [구글 슬라이드](https://docs.google.com/presentation/d/1yzs34AjS9wC35CD-di4dz4PbJrI0P0D92JxXWJJYXK8/edit?slide=id.g33b52cd8eb5_0_0#slide=id.g33b52cd8eb5_0_0) |
 | 5 | LLM 기초 | [구글 슬라이드](https://docs.google.com/presentation/d/1oj7E8hNjovntqqUbtxhUVaA9ZNfvdUjNX5vyATMOpQQ/edit?slide=id.g3dcc5b332cc_1_6&pli=1#slide=id.g3dcc5b332cc_1_6) |
-| 6 | 바이브코딩 초급 |  |
-| 7 | 바이브코딩 중급 |  |
+| 6 | 바이브코딩 1편 | [구글 슬라이드](https://docs.google.com/presentation/d/1sFZSzYQLmSI8YwYziEi68Z76ima6llKZ_gnRo-2Eib8/edit?slide=id.g33b52cd8eb5_0_0#slide=id.g33b52cd8eb5_0_0) |
+| 7 | 바이브코딩 2편 |  |
 | 8 | 팀프로젝트 발표 |  |
 
 
