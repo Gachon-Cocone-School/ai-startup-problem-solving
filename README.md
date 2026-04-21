@@ -62,7 +62,7 @@
 | 5 | LLM 기초 | [구글 슬라이드](https://docs.google.com/presentation/d/1oj7E8hNjovntqqUbtxhUVaA9ZNfvdUjNX5vyATMOpQQ/edit?slide=id.g3dcc5b332cc_1_6&pli=1#slide=id.g3dcc5b332cc_1_6) |
 | 6 | 바이브코딩 1편 | [구글 슬라이드](https://docs.google.com/presentation/d/1sFZSzYQLmSI8YwYziEi68Z76ima6llKZ_gnRo-2Eib8/edit?slide=id.g33b52cd8eb5_0_0#slide=id.g33b52cd8eb5_0_0) |
 | 7 | 바이브코딩 2편 | [구글 슬라이드](https://docs.google.com/presentation/d/1okv2xuso1IkawLM17oAP-9gqVPMpQgtq0sEqs3jwVvM/edit?slide=id.g33b52cd8eb5_0_0#slide=id.g33b52cd8eb5_0_0) |
-| 8 | 팀프로젝트 발표 |  |
+| 8 | 팀프로젝트 발표 | [구글 슬라이드](https://docs.google.com/presentation/d/1aEqNqs3YldDG3gGi00yFHsezIRBCQSU4qNo0Y9zRNmg/edit?slide=id.g3d82e7546ef_1_107#slide=id.g3d82e7546ef_1_107) |
 
 
 
