@@ -1,1 +1,99 @@
+<img width="1024" height="299" alt="Image" src="https://github.com/user-attachments/assets/c949bcc0-9d54-4700-99cd-c49c39cec2c9" />
 
+# AI와 스타트업 문제해결
+
+---
+
+## 강사 정보
+김남주(전임교수, 가천대학교 스타트업칼리지, namjookim@gachon.ac.kr, N03호)
+
+---
+
+## 강의 정보
+시간 : 화 10:00~13:00  
+장소 : AI관 6층 GCS 세미나실
+
+---
+
+## 강의 개요
+이 강의는 인공지능(AI)과 자동화 도구를 활용해서, 새로운 웹이나 앱 서비스를 스스로 기획하고, 디자인하고, 직접 만들어보는 수업입니다.  ‘바이브 코딩(vibe coding)/에이전틱 코딩(agentic coding)’ 툴을 사용해서, 여러분이 생각한 아이디어를 빠르게 실제 서비스로 만들어 볼 수 있습니다. AI가 코드를 만들게하고 여러분은 에이전트의 결과에 대한 피드백과 워크플로우을 제공하게 됩니다. 어렵고 소모적인 업무는 AI가 맡아서 처리해주니까, 여러분은 아이디어를 실현하는데 집중할 수 있습니다.  수업에서 개발과 LLM의 기초 개요도 가르치니 비개발자도 따라올 수 있도록 구성하였습니다.
+이 수업을 통해 여러분은 문제를 발견해서 직접 기획하고 팀과 함께 실습하고 결과물을 실제로 만들어 발표하는 실전 경험을 쌓게 됩니다. AI와 최신 도구를 자유롭게 쓰면서, 스타트업이 당면한 문제를 스스로 해결할 수 있는 진짜 실무 능력을 키우는 게 이 강의의 목표입니다.
+
+---
+
+## 강의 목표
+이 수업을 수강한 후, 학생들은 다음과 같은 역량을 갖추게 됩니다:
+
+- 실무형 창업가 역량  
+  스타트업 현장에서 실제로 쓰이는 도구와 방법을 경험하며, 실전에서 바로 활용할 수 있는 자신감을 기릅니다.  
+- AI 기반 서비스 개발 역량  
+  AI 코딩 도구를 활용해, 웹/앱 서비스를 스스로 기획하고 디자인하며 개발할 수 있습니다.  
+- AI·자동화 기술 활용 역량  
+  LLM 과 에이전틱 AI 도구를 활용해 에이전트 본인이 필요한 AI 에이전트를 스스로 만들 수 있습니다.
+- 문제 해결 및 협업 역량  
+  팀 프로젝트와 실습을 통해, 문제를 직접 정의하고 해결하며, 동료와 협업하는 경험을 쌓습니다.  
+
+**핵심 역량**  
+- 소프트웨어활용 능력 50%  
+- 서비스 설계 및 구현 능력 30%  
+- 문제해결 및 팀워크 능력 20%  
+
+---
+
+## 강의 진행
+이 강의는 학생들이 실질적인 역량을 체득할 수 있도록 이론과 실습, 과제, 프로젝트를 유기적으로 연결한 방식으로 진행됩니다. 수업은 간단한 개념 이해로 시작하며, 이후 flipped learning 과제와 조별 실습 중심으로 진행됩니다. 매 실습 이후에는 학생들이 개별 과제를 수행하도록 하여 배운 내용을 심화하고 손에 익힐 수 있도록 합니다. GCS 학기제 팀빌딩 이후에는 팀 단위 프로젝트를 통해 실전 감각을 익히게 됩니다. 프로젝트 기간 동안 팀원 간 협업의 중요성을 체감할 수 있도록 동료 평가를 실시하며, 참여율과 태도에 대한 피드백을 제공합니다. 이러한 과정을 통해 학생들은 실무 중심의 역량뿐만 아니라, 팀워크와 협업 능력도 향상시킬 수 있습니다. 강의는 지속적인 피드백과 개선을 통해 학생들이 학습에 몰입할 수 있는 환경을 조성하는 데 중점을 둡니다
+
+---
+
+## 강의 일정
+
+[강의 일정표(구글 시트)](https://docs.google.com/spreadsheets/d/1DuBo8B9tWJJjJ3x5ww1kPsp6auDm5-tsDx1aOLHWsgU/edit?gid=0#gid=0)
+
+---
+
+## 강의 자료
+
+| 번호 | 제목 | 강의 자료 |
+|:------:|------|-----------------------------|
+| 1 | 오리엔테이션 | [구글 슬라이드](https://docs.google.com/presentation/d/1e_wZ5L3brwonTWDlyWU544BbE8gC46_DXd_z7P9H2u8/edit?slide=id.g33c2ddec84f_0_0#slide=id.g33c2ddec84f_0_0) |
+| 2 | Agile 방법론 |[구글 슬라이드](https://docs.google.com/presentation/d/1hJFu9PzAJwFc8DImhEV_Oh8CstIAbnuTv5vBryoPBW4/edit?slide=id.g3c576e76964_0_16#slide=id.g3c576e76964_0_16)  |
+| 3 | API 기초 | [구글 슬라이드](https://docs.google.com/presentation/d/1BLgvgr9ovJ9YoLt5nI7rp91X1-_cE6fio9Hw8GnvVJM/edit?slide=id.g33b52cd8eb5_0_0#slide=id.g33b52cd8eb5_0_0)  |
+| 4 | Database 기초 | [구글 슬라이드](https://docs.google.com/presentation/d/1yzs34AjS9wC35CD-di4dz4PbJrI0P0D92JxXWJJYXK8/edit?slide=id.g33b52cd8eb5_0_0#slide=id.g33b52cd8eb5_0_0) |
+| 5 | LLM 기초 | [구글 슬라이드](https://docs.google.com/presentation/d/1oj7E8hNjovntqqUbtxhUVaA9ZNfvdUjNX5vyATMOpQQ/edit?slide=id.g3dcc5b332cc_1_6&pli=1#slide=id.g3dcc5b332cc_1_6) |
+| 6 | 바이브코딩 1편 | [구글 슬라이드](https://docs.google.com/presentation/d/1sFZSzYQLmSI8YwYziEi68Z76ima6llKZ_gnRo-2Eib8/edit?slide=id.g33b52cd8eb5_0_0#slide=id.g33b52cd8eb5_0_0) |
+| 7 | 바이브코딩 2편 | [구글 슬라이드](https://docs.google.com/presentation/d/1okv2xuso1IkawLM17oAP-9gqVPMpQgtq0sEqs3jwVvM/edit?slide=id.g33b52cd8eb5_0_0#slide=id.g33b52cd8eb5_0_0) |
+| 8 | 팀프로젝트 발표 | [구글 슬라이드](https://docs.google.com/presentation/d/1aEqNqs3YldDG3gGi00yFHsezIRBCQSU4qNo0Y9zRNmg/edit?slide=id.g3d82e7546ef_1_107#slide=id.g3d82e7546ef_1_107) |
+
+
+
+---
+
+## 성적 산출
+성적은 아래의 비중에 따라 계산됩니다.
+
+- **출석 평가(30%)**  
+  지각에 대해서는 따로 적용하지 않고 수업 시작 10분 후 수업에 참여하는 것은 결석으로 간주한다. 결석 회수당 출석 점수를 4점씩 감점할 예정이며, 결석횟수 3회는 다른 항목과 상관없이 A 학점을 부여하지 않으며 결석횟수 4회부터는 학칙에 의해 다른 항목 점수에 관계 없이 F학점을 부여합니다.  
+- **과제 평가(30%)**  
+  팀별 과제는 4회 계획 되었으며 각 과제당 7, 8, 8, 7 점을 배정하였습니다.
+- **프로젝트 발표(40%)**  
+  발표 평가는 팀단위의 동료 평가로 이루어지며(30점) 평가자의 평가 태도도 평가 대상(10점)입니다.
+- 과제와 프로젝트 발표는 팀원 간 협업의 중요성을 체감할 수 있도록 개인별 기여율에 대한 평가도 진행할 예정입니다.  
+
+---
+
+## 평점 산출
+최종 성적은 아래와 같은 스케일에 따라 절대평가로 진행됩니다.
+
+<img width="314" height="156" alt="Image" src="https://github.com/user-attachments/assets/7433d462-b1ff-4ed5-86de-4f07c3aafa35" />
+
+---
+
+## 수업 만족도
+학기 종료후 아래의 문항에 대해 강의 만족도 평가를 하게 됩니다.  
+- 이 수업은 전공실력을 높이는데 도움이 되었다.  
+- 수업 내용과 활동(과제)은 실무/실기에 대한 이해와 수행 능력을 높일 수 있도록 구성되었다.  
+
+---
+
+## 학생 지원
+수업에 참여하는데 있어 특별한 고려사항이나 어려움이 있는 학생 별도로 담당교수에게 연락을 하거나 장애학생지원센터(031-750-5058)로 문의하기 바랍니다.
