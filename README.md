@@ -47,7 +47,7 @@
 
 ## 강의 일정
 
-[강의 일정표(구글 시트)](https://docs.google.com/spreadsheets/d/1DuBo8B9tWJJjJ3x5ww1kPsp6auDm5-tsDx1aOLHWsgU/edit?gid=0#gid=0)
+[강의 일정표(구글 시트)](https://docs.google.com/spreadsheets/d/1OLZbc7ESfUvKtLErk6JHNxESsvJx6Jsy-zP8Z5W0Qnk/edit?gid=0#gid=0)
 
 ---
 
@@ -55,15 +55,8 @@
 
 | 번호 | 제목 | 강의 자료 |
 |:------:|------|-----------------------------|
-| 1 | 오리엔테이션 | [구글 슬라이드](https://docs.google.com/presentation/d/1e_wZ5L3brwonTWDlyWU544BbE8gC46_DXd_z7P9H2u8/edit?slide=id.g33c2ddec84f_0_0#slide=id.g33c2ddec84f_0_0) |
-| 2 | Agile 방법론 |[구글 슬라이드](https://docs.google.com/presentation/d/1hJFu9PzAJwFc8DImhEV_Oh8CstIAbnuTv5vBryoPBW4/edit?slide=id.g3c576e76964_0_16#slide=id.g3c576e76964_0_16)  |
-| 3 | API 기초 | [구글 슬라이드](https://docs.google.com/presentation/d/1BLgvgr9ovJ9YoLt5nI7rp91X1-_cE6fio9Hw8GnvVJM/edit?slide=id.g33b52cd8eb5_0_0#slide=id.g33b52cd8eb5_0_0)  |
-| 4 | Database 기초 | [구글 슬라이드](https://docs.google.com/presentation/d/1yzs34AjS9wC35CD-di4dz4PbJrI0P0D92JxXWJJYXK8/edit?slide=id.g33b52cd8eb5_0_0#slide=id.g33b52cd8eb5_0_0) |
-| 5 | LLM 기초 | [구글 슬라이드](https://docs.google.com/presentation/d/1oj7E8hNjovntqqUbtxhUVaA9ZNfvdUjNX5vyATMOpQQ/edit?slide=id.g3dcc5b332cc_1_6&pli=1#slide=id.g3dcc5b332cc_1_6) |
-| 6 | 바이브코딩 1편 | [구글 슬라이드](https://docs.google.com/presentation/d/1sFZSzYQLmSI8YwYziEi68Z76ima6llKZ_gnRo-2Eib8/edit?slide=id.g33b52cd8eb5_0_0#slide=id.g33b52cd8eb5_0_0) |
-| 7 | 바이브코딩 2편 | [구글 슬라이드](https://docs.google.com/presentation/d/1okv2xuso1IkawLM17oAP-9gqVPMpQgtq0sEqs3jwVvM/edit?slide=id.g33b52cd8eb5_0_0#slide=id.g33b52cd8eb5_0_0) |
-| 8 | 팀프로젝트 발표 | [구글 슬라이드](https://docs.google.com/presentation/d/1aEqNqs3YldDG3gGi00yFHsezIRBCQSU4qNo0Y9zRNmg/edit?slide=id.g3d82e7546ef_1_107#slide=id.g3d82e7546ef_1_107) |
-
+| 1 | 오리엔테이션 | [구글 슬라이드](https://docs.google.com/presentation/d/1STJpj2ZF3QvKhRNfbRs1U0T_YqIpPN5a_XgBKExV8KM/edit?usp=drive_link) |
+| 2 | Agile 방법론 |[구글 슬라이드](https://docs.google.com/presentation/d/15h7AV0H6WoNEE_fmTv_k-5ZQ-7cVNIWAy7EzKRd4dYU/edit?usp=drive_link)  |
 
 
 ---
