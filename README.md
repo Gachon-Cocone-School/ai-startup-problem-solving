@@ -60,7 +60,7 @@
 | 3 | 오리엔테이션 | [구글 슬라이드](https://docs.google.com/presentation/d/1STJpj2ZF3QvKhRNfbRs1U0T_YqIpPN5a_XgBKExV8KM/edit?usp=drive_link) |
 | 4 | Agile 방법론 |[구글 슬라이드](https://docs.google.com/presentation/d/15h7AV0H6WoNEE_fmTv_k-5ZQ-7cVNIWAy7EzKRd4dYU/edit?usp=drive_link) [과제 쇼케이스](https://signal-latte-63401190.figma.site/) |
 | 5 | API 기초 |[구글 슬라이드](https://docs.google.com/presentation/d/115qw4cxebILiTedtSdbyAlkDu9H_EGAbE2vpLi315WE/edit?usp=drive_link)  |
-
+| 6 | 데이터베이스 기초 |[구글 슬라이드](https://docs.google.com/presentation/d/16muKFpoQOnC6pKwwSuwPPD9401rlWsDa_NkMYAoSfOw/edit?slide=id.g33b52cd8eb5_0_0#slide=id.g33b52cd8eb5_0_0)  |
 
 ---
 
