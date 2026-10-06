@@ -61,6 +61,7 @@
 | 4 | Agile 방법론 |[구글 슬라이드](https://docs.google.com/presentation/d/15h7AV0H6WoNEE_fmTv_k-5ZQ-7cVNIWAy7EzKRd4dYU/edit?usp=drive_link) [과제 쇼케이스](https://signal-latte-63401190.figma.site/) |
 | 5 | API 기초 |[구글 슬라이드](https://docs.google.com/presentation/d/115qw4cxebILiTedtSdbyAlkDu9H_EGAbE2vpLi315WE/edit?usp=drive_link)  |
 | 6 | 데이터베이스 기초 |[구글 슬라이드](https://docs.google.com/presentation/d/16muKFpoQOnC6pKwwSuwPPD9401rlWsDa_NkMYAoSfOw/edit?slide=id.g33b52cd8eb5_0_0#slide=id.g33b52cd8eb5_0_0)  |
+| 7 | LLM 기초 |[구글 슬라이드](https://docs.google.com/presentation/d/1Hz4T-3141QBCHLDmdoMGSpJ9wLBHX2HVXMmfgHAr-xY/edit?slide=id.g3dcbf1414d2_0_11&pli=1#slide=id.g3dcbf1414d2_0_11)  |
 
 ---
 
