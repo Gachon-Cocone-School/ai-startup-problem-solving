@@ -64,6 +64,7 @@
 | 7 | LLM 기초 |[구글 슬라이드](https://docs.google.com/presentation/d/1Hz4T-3141QBCHLDmdoMGSpJ9wLBHX2HVXMmfgHAr-xY/edit?slide=id.g3dcbf1414d2_0_11&pli=1#slide=id.g3dcbf1414d2_0_11)  |
 | 8 | 바이브코딩 1편 |[구글 슬라이드](https://docs.google.com/presentation/d/1QC3XMSRBKzhS7ZJqYH1Q0AMqW_XbBlYrR2VKqdcC6dY/edit?usp=drive_link)  |
 | 9 | 바이브코딩 2편 |[구글 슬라이드](https://docs.google.com/presentation/d/198pM1VEwIqHSOjDvURi-xHZ0ruRI2iWuXM9-k14LnUM/edit?usp=drive_link)  |
+| 10 | 가설수립 및 가치제안 |[구글 슬라이드](https://docs.google.com/presentation/d/1M2zdLdlNISA-c00VPF2JMLoWU_fklL82_a02sliHgpg/edit?usp=drive_link)  |
 
 
 ---
