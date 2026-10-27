@@ -65,7 +65,11 @@
 | 8 | 바이브코딩 1편 |[구글 슬라이드](https://docs.google.com/presentation/d/1QC3XMSRBKzhS7ZJqYH1Q0AMqW_XbBlYrR2VKqdcC6dY/edit?usp=drive_link)  |
 | 9 | 바이브코딩 2편 |[구글 슬라이드](https://docs.google.com/presentation/d/198pM1VEwIqHSOjDvURi-xHZ0ruRI2iWuXM9-k14LnUM/edit?usp=drive_link)  |
 | 10 | 가설수립 및 가치제안 |[구글 슬라이드](https://docs.google.com/presentation/d/1M2zdLdlNISA-c00VPF2JMLoWU_fklL82_a02sliHgpg/edit?usp=drive_link)  |
-
+| 11 | 중간과제 발표 |  |
+| 12 | 팀프로젝트 #1 |  |
+| 13 | 팀프로젝트 #2 |  |
+| 14 | 팀프로젝트 #3 |  |
+| 15 | 팀프로젝트 발표 |  |
 
 ---
 
